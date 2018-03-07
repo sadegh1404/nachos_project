@@ -1,0 +1,88 @@
+Nonpreemptive Priority scheduling
+##########################################
+ Sadegh Ranjbar has created this files
+##########################################
+Starting at Ticks: total 0
+Queuing threads.
+Queuing thread P1 at Time 0, priority 7
+Queuing thread P2 at Time 0, priority 5
+Queuing thread P3 at Time 0, priority 2
+Queuing thread P4 at Time 0, priority 8
+P4, Starting Burst of 7 Ticks: total 0
+P4, Still 6 to go Ticks: total 1
+P4, Still 5 to go Ticks: total 2
+P4, Still 4 to go Ticks: total 3
+P4, Still 3 to go Ticks: total 4
+Queuing thread P5 at Time 5, priority 9
+P5, Starting Burst of 12 Ticks: total 5
+P5, Still 11 to go Ticks: total 6
+P5, Still 10 to go Ticks: total 7
+P5, Still 9 to go Ticks: total 8
+P5, Still 8 to go Ticks: total 9
+P5, Still 7 to go Ticks: total 10
+P5, Still 6 to go Ticks: total 11
+P5, Still 5 to go Ticks: total 12
+P5, Still 4 to go Ticks: total 13
+P5, Still 3 to go Ticks: total 14
+P5, Still 2 to go Ticks: total 15
+P5, Still 1 to go Ticks: total 16
+P5, Still 0 to go Ticks: total 17
+P5, Done with burst Ticks: total 17
+P4, Still 2 to go Ticks: total 17
+P4, Still 1 to go Ticks: total 18
+P4, Still 0 to go Ticks: total 19
+P4, Done with burst Ticks: total 19
+P1, Starting Burst of 5 Ticks: total 19
+P1, Still 4 to go Ticks: total 20
+P1, Still 3 to go Ticks: total 21
+P1, Still 2 to go Ticks: total 22
+P1, Still 1 to go Ticks: total 23
+P1, Still 0 to go Ticks: total 24
+P1, Done with burst Ticks: total 24
+P2, Starting Burst of 19 Ticks: total 24
+P2, Still 18 to go Ticks: total 25
+P2, Still 17 to go Ticks: total 26
+P2, Still 16 to go Ticks: total 27
+P2, Still 15 to go Ticks: total 28
+P2, Still 14 to go Ticks: total 29
+P2, Still 13 to go Ticks: total 30
+P2, Still 12 to go Ticks: total 31
+P2, Still 11 to go Ticks: total 32
+P2, Still 10 to go Ticks: total 33
+P2, Still 9 to go Ticks: total 34
+P2, Still 8 to go Ticks: total 35
+P2, Still 7 to go Ticks: total 36
+P2, Still 6 to go Ticks: total 37
+P2, Still 5 to go Ticks: total 38
+P2, Still 4 to go Ticks: total 39
+P2, Still 3 to go Ticks: total 40
+P2, Still 2 to go Ticks: total 41
+P2, Still 1 to go Ticks: total 42
+P2, Still 0 to go Ticks: total 43
+P2, Done with burst Ticks: total 43
+P3, Starting Burst of 13 Ticks: total 43
+P3, Still 12 to go Ticks: total 44
+P3, Still 11 to go Ticks: total 45
+P3, Still 10 to go Ticks: total 46
+P3, Still 9 to go Ticks: total 47
+P3, Still 8 to go Ticks: total 48
+P3, Still 7 to go Ticks: total 49
+P3, Still 6 to go Ticks: total 50
+P3, Still 5 to go Ticks: total 51
+P3, Still 4 to go Ticks: total 52
+P3, Still 3 to go Ticks: total 53
+P3, Still 2 to go Ticks: total 54
+P3, Still 1 to go Ticks: total 55
+P3, Still 0 to go Ticks: total 56
+P3, Done with burst Ticks: total 56
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 56, idle 0, system 56, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

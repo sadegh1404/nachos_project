@@ -1,0 +1,53 @@
+Shortest job first scheduling
+##########################################
+ Sadegh Ranjbar has created this files
+##########################################
+Starting at Ticks: total 0
+Queuing threads.
+Queuing thread P1 at Time 0, priority 1
+P1, Starting Burst of 7 Ticks: total 0
+Queuing thread P2 at Time 1, priority 2
+P1, Still 6 to go Ticks: total 1
+Queuing thread P3 at Time 2, priority 3
+Queuing thread P4 at Time 2, priority 4
+P1, Still 5 to go Ticks: total 2
+P1, Still 4 to go Ticks: total 3
+P1, Still 3 to go Ticks: total 4
+P1, Still 2 to go Ticks: total 5
+P1, Still 1 to go Ticks: total 6
+P1, Still 0 to go Ticks: total 7
+P1, Done with burst Ticks: total 7
+P4, Starting Burst of 1 Ticks: total 7
+Queuing thread P5 at Time 8, priority 5
+P4, Still 0 to go Ticks: total 8
+P4, Done with burst Ticks: total 8
+P3, Starting Burst of 3 Ticks: total 8
+P3, Still 2 to go Ticks: total 9
+P3, Still 1 to go Ticks: total 10
+P3, Still 0 to go Ticks: total 11
+P3, Done with burst Ticks: total 11
+P5, Starting Burst of 4 Ticks: total 11
+P5, Still 3 to go Ticks: total 12
+P5, Still 2 to go Ticks: total 13
+P5, Still 1 to go Ticks: total 14
+P5, Still 0 to go Ticks: total 15
+P5, Done with burst Ticks: total 15
+P2, Starting Burst of 6 Ticks: total 15
+P2, Still 5 to go Ticks: total 16
+P2, Still 4 to go Ticks: total 17
+P2, Still 3 to go Ticks: total 18
+P2, Still 2 to go Ticks: total 19
+P2, Still 1 to go Ticks: total 20
+P2, Still 0 to go Ticks: total 21
+P2, Done with burst Ticks: total 21
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 21, idle 0, system 21, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...

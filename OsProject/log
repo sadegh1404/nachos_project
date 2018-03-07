@@ -1,0 +1,104 @@
+Starting at Ticks: total 10
+Queuing threads.
+Queuing thread threadA at Time 10, priority 0
+the burst time of threadA is 7
+Queuing thread threadB at Time 20, priority 0
+the burst time of threadB is 2
+Queuing thread threadC at Time 30, priority 0
+the burst time of threadC is 5
+Queuing thread threadD at Time 40, priority 0
+the burst time of threadD is 1
+threadA, Starting Burst of 7 Ticks: total 60
+Queuing thread threadE at Time 70, priority 0
+the burst time of threadE is 12
+Queuing thread threadF at Time 70, priority 0
+the burst time of threadF is 15
+threadA, Still 6 to go Ticks: total 70
+threadA, Still 5 to go Ticks: total 80
+threadA, Still 4 to go Ticks: total 90
+threadA, Still 3 to go Ticks: total 100
+threadA, Still 2 to go Ticks: total 110
+threadA, Still 1 to go Ticks: total 120
+threadA, Still 0 to go Ticks: total 130
+threadA, Done with burst Ticks: total 130
+threadB, Starting Burst of 2 Ticks: total 140
+threadB, Still 1 to go Ticks: total 150
+threadB, Still 0 to go Ticks: total 160
+threadB, Done with burst Ticks: total 160
+threadC, Starting Burst of 5 Ticks: total 170
+threadC, Still 4 to go Ticks: total 180
+threadC, Still 3 to go Ticks: total 190
+threadC, Still 2 to go Ticks: total 200
+threadC, Still 1 to go Ticks: total 210
+threadC, Still 0 to go Ticks: total 220
+threadC, Done with burst Ticks: total 220
+threadD, Starting Burst of 1 Ticks: total 230
+threadD, Still 0 to go Ticks: total 240
+threadD, Done with burst Ticks: total 240
+threadE, Starting Burst of 12 Ticks: total 250
+threadE, Still 11 to go Ticks: total 260
+threadE, Still 10 to go Ticks: total 270
+threadE, Still 9 to go Ticks: total 280
+threadE, Still 8 to go Ticks: total 290
+threadE, Still 7 to go Ticks: total 300
+threadE, Still 6 to go Ticks: total 310
+threadE, Still 5 to go Ticks: total 320
+threadE, Still 4 to go Ticks: total 330
+threadE, Still 3 to go Ticks: total 340
+threadE, Still 2 to go Ticks: total 350
+threadE, Still 1 to go Ticks: total 360
+threadE, Still 0 to go Ticks: total 370
+threadE, Done with burst Ticks: total 370
+threadF, Starting Burst of 15 Ticks: total 380
+threadF, Still 14 to go Ticks: total 390
+Queuing thread threadG at Time 400, priority 0
+the burst time of threadG is 2
+Queuing thread threadH at Time 400, priority 0
+the burst time of threadH is 3
+Queuing thread threadI at Time 400, priority 0
+the burst time of threadI is 8
+threadF, Still 13 to go Ticks: total 400
+threadF, Still 12 to go Ticks: total 410
+threadF, Still 11 to go Ticks: total 420
+threadF, Still 10 to go Ticks: total 430
+threadF, Still 9 to go Ticks: total 440
+threadF, Still 8 to go Ticks: total 450
+threadF, Still 7 to go Ticks: total 460
+threadF, Still 6 to go Ticks: total 470
+threadF, Still 5 to go Ticks: total 480
+threadF, Still 4 to go Ticks: total 490
+threadF, Still 3 to go Ticks: total 500
+threadF, Still 2 to go Ticks: total 510
+threadF, Still 1 to go Ticks: total 520
+threadF, Still 0 to go Ticks: total 530
+threadF, Done with burst Ticks: total 530
+threadG, Starting Burst of 2 Ticks: total 540
+threadG, Still 1 to go Ticks: total 550
+threadG, Still 0 to go Ticks: total 560
+threadG, Done with burst Ticks: total 560
+threadH, Starting Burst of 3 Ticks: total 570
+threadH, Still 2 to go Ticks: total 580
+threadH, Still 1 to go Ticks: total 590
+threadH, Still 0 to go Ticks: total 600
+threadH, Done with burst Ticks: total 600
+threadI, Starting Burst of 8 Ticks: total 610
+threadI, Still 7 to go Ticks: total 620
+threadI, Still 6 to go Ticks: total 630
+threadI, Still 5 to go Ticks: total 640
+threadI, Still 4 to go Ticks: total 650
+threadI, Still 3 to go Ticks: total 660
+threadI, Still 2 to go Ticks: total 670
+threadI, Still 1 to go Ticks: total 680
+threadI, Still 0 to go Ticks: total 690
+threadI, Done with burst Ticks: total 690
+No threads ready or runnable, and no pending interrupts.
+Assuming the program completed.
+Machine halting!
+
+Ticks: total 690, idle 0, system 690, user 0
+Disk I/O: reads 0, writes 0
+Console I/O: reads 0, writes 0
+Paging: faults 0
+Network I/O: packets received 0, sent 0
+
+Cleaning up...
